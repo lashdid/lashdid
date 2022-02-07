@@ -1,3 +1,3 @@
 # (-_-)
-<img src="https://c.tenor.com/lVIuYsJXHzEAAAAd/spongebob-dancing.gif" width="40" height="40" />
+<img src="https://c.tenor.com/QjkhncKynLAAAAAC/spongebob-spongebob-dancing.gif" width="40" height="40" />
 Hmmmmm... still breathing...
