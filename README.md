@@ -1,3 +1,3 @@
 # (-_-)
-<img src="https://i.pinimg.com/originals/e3/6e/76/e36e76a090d883b269c61cb1bbba8dd8.gif" width="40" height="40" />
+<img src="/static/sponge.gif" width="40" height="40" />
 Hmmmmm... still breathing...
