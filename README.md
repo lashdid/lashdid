@@ -1,4 +1,1 @@
-<p align="center">
-  <img src="/static/sponge.gif"/>
-  <h1>Welcome!</h1>
-</p>
+<h1>Welcome! <img src="/static/sponge.gif" width="40" height="30"/></h1>
