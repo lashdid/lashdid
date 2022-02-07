@@ -1,1 +1,2 @@
-# (-_-) <img src="/static/sponge.gif" width="40" />
+# (-_-)
+<img src="/static/sponge.gif"/>
