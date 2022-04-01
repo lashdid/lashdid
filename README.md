@@ -3,7 +3,7 @@
 **I don't know why are you here but :**
 
 - My Github : _Bruh, you're here_
-- My Gmail : lashdid@gmail.com
+- My Gmail : lashdid19@gmail.com
 - My Facebook : _None_
 - My Instagram : _None_
 - My Twitter : _None_
