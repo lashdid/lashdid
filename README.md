@@ -10,4 +10,8 @@
 - My Skills : _None_
 - My Friends : _None_
 
+Codewars : 
+
+![codewars](https://www.codewars.com/users/lashdid19/badges/small)
+
 <p align="center"><img src="/static/sponge.gif" width="40" height="30"/> <b>Sorry for wasting your time</b> <img src="/static/sponge.gif" width="40" height="30"/></p>
