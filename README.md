@@ -12,6 +12,6 @@
 
 Codewars : 
 
-![codewars](https://www.codewars.com/users/lashdid19/badges/small)
+[![codewars](https://www.codewars.com/users/lashdid19/badges/small)](https://www.codewars.com/users/lashdid19)
 
 <p align="center"><img src="/static/sponge.gif" width="40" height="30"/> <b>Sorry for wasting your time</b> <img src="/static/sponge.gif" width="40" height="30"/></p>
