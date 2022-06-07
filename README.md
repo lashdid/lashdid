@@ -2,7 +2,7 @@
 
 **I don't know why are you here but :**
 
-- My Github : _Bruh, you're here_
+- My Github : You're here_
 - My Gmail : lashdid19@gmail.com
 - My Facebook : _None_
 - My Instagram : _None_
