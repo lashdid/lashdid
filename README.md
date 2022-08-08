@@ -12,3 +12,5 @@
 Codewars : 
 
 [![codewars](https://www.codewars.com/users/lashdid19/badges/small)](https://www.codewars.com/users/lashdid19)
+
+<p align="center"><img src="/static/sponge.gif" width="25"/> <b>Thank you!</b> <img src="/static/sponge.gif" width="25"/></p>
