@@ -12,5 +12,3 @@
 Codewars : 
 
 [![codewars](https://www.codewars.com/users/lashdid19/badges/small)](https://www.codewars.com/users/lashdid19)
-
-<p align="center"> <b>Thank you for coming!</b> </p>
