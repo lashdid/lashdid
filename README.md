@@ -7,7 +7,7 @@
 - My Facebook : _None_
 - My Instagram : _None_
 - My Twitter : _None_
-- My Skills : **I have this!**
+- My Skills : **I have this! maybe**
 
 Codewars : 
 
