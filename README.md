@@ -6,5 +6,6 @@
 ---
 <p align="center"><b>Tools I've used :</b> <br/> <sup><sub>( Doesn't mean i'm good at all of it )</sub></sup></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=ts,tailwindcss,svelte,react,nextjs,nuxtjs,mongodb,mysql,firebase,flutter,git,linux" /></p>
-<p align="center"><img src="https://github.com/lashdid/lashdid/blob/output/github-contribution-snake.svg"/></p>
+<!-- no food for my snake to eat :( -->
+<!-- <p align="center"><img src="https://github.com/lashdid/lashdid/blob/output/github-contribution-snake.svg"/></p> -->
 <p align="center"><img src="/static/sponge.gif?raw=true" width="25"/> <b>Thank you!</b> <img src="/static/sponge.gif?raw=true" width="25"/></p>
